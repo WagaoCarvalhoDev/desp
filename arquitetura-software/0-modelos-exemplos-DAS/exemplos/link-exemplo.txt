@@ -1,0 +1,7 @@
+https://fga-eps-mds.github.io/2018.2-PDF2CASH/documento-de-arquitetura/
+
+https://github.com/alicefrancener/ufg-projeto-software/blob/master/2-analise/documento-arquitetura-software.pdf
+
+https://proespecies.eco.br/wp-content/uploads/2019/11/anexo_ii_arquitetura_de_sistemas_ibama.pdf
+
+https://fga-eps-mds.github.io/2018.2-IndicaAi//docs/2018/08/28/architecture-doc.html
